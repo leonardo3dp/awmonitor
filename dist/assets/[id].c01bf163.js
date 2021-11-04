@@ -1,0 +1,1 @@
+import{h as o,a as t}from"./index.2f5d8350.js";import"./vendor.a6ee33be.js";const f={name:"RestoreDashboard",beforeRouteEnter(e,d,s){try{const r=e.params.id,a=o.decode(r);a&&Array.isArray(a)&&(t.value=a)}finally{s("/")}}};export{f as default};
